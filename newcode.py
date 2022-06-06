@@ -1,0 +1,1 @@
+Print (Yenane teriyalla)
